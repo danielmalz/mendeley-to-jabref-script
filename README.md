@@ -1,6 +1,8 @@
 # mendeley-to-jabref-script
 A quick hack to modify a Mendeley-generated .bib file such that it can be imported into jabref with intact pdf links
 
+Requires perl and *NIX command line. 
+
 # Usage
 1. Copy the Mendeley directory containing all the pdfs to a new location (e.g. ~/Documents/JabRef/)
 2. Copy the Mendeley .bib file containing your whole bibliography and call it "library.bib"
